@@ -1,0 +1,51 @@
+Sr. No.,Order Date,Category,Sub-Category,Quantity,Amount,Payment Mode,Order Time,Receive Date,who
+1,15-01-24,Groceries,Vegetables,3,30.0,Credit Card,10:00:00 AM,18-01-24,m
+2,18-01-24,Transport,Fuel,4,50.0,Debit Card,2:30:00 PM,19-01-24,m
+3,20-01-24,Entertainment,Movies,5,40.0,Cash,5:00:00 PM,22-01-24,m
+4,05-02-24,Utilities,Electricity Bill,6,100.0,Net Banking,11:00:00 AM,07-02-24,p
+5,08-02-24,Shopping,,2,75.0,Credit Card,3:45:00 PM,10-02-24,p
+6,12-02-24,Groceries,Fruits,3,20.0,,9:00:00 AM,14-02-24,p
+7,14-02-24,Dining,Restaurant,4,60.0,Cash,8:00:00 PM,10-02-24,p
+8,17-02-24,Transport,Taxi,5,,Debit Card,2:15:00 PM,19-02-24,p
+9,18-02-24,Entertainment,Concert,6,100.0,Credit Card,6:30:00 PM,21-02-24,p
+10,22-02-24,Utilities,Water Bill,2,30.0,Net Banking,10:30:00 AM,25-02-24,p
+11,25-02-24,Groceries,Vegetables,5,,Credit Card,4:00:00 PM,28-02-24,p
+12,27-02-24,Transport,Fuel,3,45.0,Cash,12:30:00 PM,10-02-24,p
+13,01-03-24,Shopping,Electronics,6,200.0,Debit Card,5:15:00 PM,03-03-24,p
+14,03-03-24,Entertainment,Movies,3,,Credit Card,9:00:00 PM,10-02-24,p
+15,06-03-24,Utilities,Gas Bill,5,55.0,Net Banking,10:00:00 AM,08-03-24,p
+16,09-03-24,Groceries,Dairy,3,15.0,Cash,7:30:00 AM,11-03-24,p
+17,12-03-24,Transport,Train Ticket,5,25.0,Debit Card,3:00:00 PM,10-02-24,m
+18,15-03-24,Dining,Restaurant,4,,Cash,8:45:00 PM,17-03-24,m
+19,17-03-24,Entertainment,Amusement Park,3,80.0,Credit Card,4:00:00 PM,20-03-24,m
+20,20-03-24,Utilities,Internet Bill,4,,Net Banking,11:30:00 AM,23-03-24,m
+21,23-03-24,Shopping,Clothing,3,120.0,Credit Card,2:00:00 PM,25-03-24,m
+22,26-03-24,Transport,Flight Ticket,3,300.0,Debit Card,6:00:00 AM,28-03-24,m
+23,28-03-24,Groceries,Vegetables,4,35.0,Cash,9:30:00 AM,31-03-24,p
+24,01-04-24,Dining,Restaurant,2,70.0,Credit Card,8:00:00 PM,10-02-24,m
+25,03-04-24,Entertainment,Concert,4,90.0,Cash,6:00:00 PM,05-04-24,p
+26,06-04-24,Utilities,Electricity Bill,2,110.0,Net Banking,9:00:00 AM,10-02-24,m
+27,08-04-24,Shopping,Electronics,4,,Credit Card,4:30:00 PM,10-04-24,p
+28,10-04-24,Transport,Taxi,2,15.0,Debit Card,11:00:00 AM,12-04-24,m
+29,13-04-24,Groceries,Fruits,7,20.0,Cash,10:00:00 AM,15-04-24,p
+30,15-04-24,Dining,Cafe,4,40.0,Credit Card,7:00:00 PM,18-04-24,m
+31,18-04-24,Entertainment,Movies,5,45.0,Cash,9:00:00 PM,10-02-24,p
+32,20-04-24,Utilities,Gas Bill,4,60.0,Net Banking,8:30:00 AM,22-04-24,m
+33,23-04-24,Shopping,Clothing,3,,Credit Card,1:30:00 PM,25-04-24,p
+34,25-04-24,Transport,Train Ticket,,30.0,Debit Card,10:00:00 AM,27-04-24,m
+35,28-04-24,Groceries,Vegetables,5,25.0,Cash,7:00:00 AM,30-04-24,p
+36,30-04-24,Dining,Restaurant,4,75.0,Credit Card,9:00:00 PM,10-02-24,p
+37,02-05-24,Entertainment,Movies,4,50.0,Cash,4:00:00 PM,04-05-24,p
+38,05-05-24,Utilities,Electricity Bill,4,105.0,Net Banking,11:00:00 AM,10-02-24,p
+39,07-05-24,Shopping,Electronics,4,150.0,Credit Card,3:00:00 PM,09-05-24,p
+40,10-05-24,Transport,Flight Ticket,4,320.0,Debit Card,7:00:00 AM,12-05-24,m
+41,13-05-24,Groceries,Dairy,3,15.0,Cash,8:30:00 AM,10-02-24,m
+42,15-05-24,Dining,Cafe,6,35.0,Credit Card,6:00:00 PM,18-05-24,m
+43,18-05-24,Entertainment,Concert,3,85.0,Debit Card,5:30:00 PM,20-05-24,m
+44,21-05-24,Utilities,Water Bill,5,25.0,Net Banking,9:30:00 AM,10-02-24,m
+45,23-05-24,Shopping,Clothing,3,100.0,Credit Card,12:30:00 PM,25-05-24,m
+46,25-05-24,Transport,Fuel,6,,Debit Card,11:45:00 AM,27-05-24,m
+47,28-05-24,Groceries,Vegetables,,40.0,Cash,8:00:00 AM,30-05-24,p
+48,30-05-24,Dining,Restaurant,4,90.0,Credit Card,7:00:00 PM,10-02-24,p
+49,02-06-24,Entertainment,Movies,7,55.0,Cash,9:00:00 PM,04-06-24,p
+50,05-06-24,Utilities,Electricity Bill,4,120.0,Net Banking,10:00:00 AM,07-06-24,p

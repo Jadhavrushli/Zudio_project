@@ -1,0 +1,19 @@
+product_id,product_name,category,price
+101,Laptop,fun,250
+102,Smartphone,Electronics,300
+103,Smartphone,Electronics,240
+104,Smartphone,Electronics,100
+105,Office Chair,Furniture,400
+106,Desk,Furniture,350
+107,Desk,Furniture,200
+108,Desk,Furniture,600
+109,T-shirt,Clothing,20
+110,Jeans,Clothing,50
+111,Jeans,Clothing,80
+112,Jeans,Clothing,100
+113,Football,Sports,25
+114,Tennis Racket,Sports,150
+115,Tennis Racket,Sports,30
+116,Gym Bag,Sports,50
+117,Tennis Racket,Sports,50
+118,Tennis Racket,Sports,50
